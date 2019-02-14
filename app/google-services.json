@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "84942907708",
+    "firebase_url": "https://fir-lyticsdemo-d2d72.firebaseio.com",
+    "project_id": "fir-lyticsdemo-d2d72",
+    "storage_bucket": "fir-lyticsdemo-d2d72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84942907708:android:7336801ab1d11d5d",
+        "android_client_info": {
+          "package_name": "com.swein.firebaselyticsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84942907708-k4ine4agc1srab65a8hq2d995sa23kd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8cb7fyyz2_bnsNKmNDx9_qYAiE58wgiY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
