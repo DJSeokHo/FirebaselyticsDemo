@@ -1,4 +1,6 @@
 apply plugin: 'com.android.application'
+
+// crashlytics need this
 apply plugin: 'io.fabric'
 
 android {
@@ -31,7 +33,7 @@ dependencies {
     // fire base
     implementation 'com.google.firebase:firebase-core:16.0.7'
 
-    // Add dependency
+    // crashlytics need this
     implementation 'com.crashlytics.sdk.android:crashlytics:2.9.8'
 
     // http post & get

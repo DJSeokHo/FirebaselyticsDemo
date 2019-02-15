@@ -6,6 +6,7 @@ buildscript {
         google()
         jcenter()
 
+        // crashlytics need this
         maven {
             url 'https://maven.fabric.io/public'
         }
@@ -20,7 +21,7 @@ buildscript {
         // fire base need this
         classpath 'com.google.gms:google-services:4.2.0' // google-services plugin
 
-        // Add dependency
+        // crashlytics need this
         classpath 'io.fabric.tools:gradle:1.26.1'
     }
 }
